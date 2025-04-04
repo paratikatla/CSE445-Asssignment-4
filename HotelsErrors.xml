@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+        
+        <Hotel Rating="4.2">
+            <Name>Westin</Name>
+            <Phone>480-968-8885</Phone>
+            <Phone>8000-937-8461</Phone>
+            <Address NearestAirport="Sky Harbor International">
+                <Number>11</Number>
+                <Street>E. 7th St</Street>
+                <City>Tempe</City>
+                <State>AZ</State>
+                <Zip>85281</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="4.7">
+            <Name>Bellagio Hotel &amp; Casino</Name>
+            <Phone>888-987-6667</Phone>
+            <Address>
+                <Number>3600</Number>
+                <Street>S. Las Vegas Blvd</Street>
+                <City>Las Vegas</City>
+                <State>NV</State>
+                <Zip>89109</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel>
+            <Name>The Beverly Hills Hotel</Name>
+            <Phone>310-276-2251</Phone>
+            <Address NearestAirport="Burbank Airport">
+                <Number>9641</Number>
+                <Street>W. Sunset Blvd</Street>
+                <City>Beverly Hills</City>
+                <State>CA</State>
+                <Zip>90210</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="4.5">
+            <Name>InterContinental Miami</Name>
+            <Phone>305-577-1000</Phone>
+            <Address NearestAirport="Miami International">
+                <Number>100</Number>
+                <Street>Chopin Plaza</Street>
+                <City>Miami</City>
+                <State>FL</State>
+                <Zip>33131</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel>
+            <Name>The New Yorker</Name>
+            <Phone>212-971-0101</Phone>
+            <Address NearestAirport="LaGuardia">
+                <Number>481</Number>
+                <Street>8th Ave</Street>
+                <City>New York</City>
+                <State>NY</State>
+                <Zip>10001</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="4.6">
+            <Name>The Ritz-Carlton</Name>
+            <Address NearestAirport="LaGuardia">
+                <Number>50</Number>
+                <Street>Central Park S.</Street>
+                <City>New York</City>
+                <State>NY</State>
+                <Zip>10019</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel>
+            <Name>Bloomington-Normal Marriot Hotel</Name>
+            <Phone>309-862-9000</Phone>
+            <Address NearestAirport="Central Illinois Regional">
+                <Number>201</Number>
+                <Street>Broadway</Street>
+                <City>Normal</City>
+                <State>IL</State>
+                <Zip>61761</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="4.7">
+            <Name>Willows Lodge</Name>
+            <Phone>425-424-3900</Phone>
+            <Address NearestAirport="Seattle-Tacoma International">
+                <Number>14580</Number>
+                <Street>NE. 145th St</Street>
+                <City>Woodinville</City>
+                <State>WA</State>
+                <Zip>98072</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel>
+            <Name>Kimpton RiverPlace Hotel</Name>
+            <Phone>503-228-3233</Phone>
+            <Address NearestAirport="Portland International">
+                <Number>1510</Number>
+                <Street>S. Harbor Way</Street>
+                <City>Portland</City>
+                <State>OR</State>
+                <Zip>97291</Zip>
+        </Hotel>
+
+        <Hotel Rating="4.8">
+            <Name>Hotel Emma</Name>
+            <Phone>210-448-8300</Phone>
+            <Address NearestAirport="San Antonio International">
+                <Number>136</Number>
+                <Street>E. Grayson St</Street>
+                <City>San Antonio</City>
+                <State>TX</State>
+                <Zip>78215</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="4.4">
+            <Name>Hotel Washington</Name>
+            <Name>Capitol Hotel</Name>
+            <Phone>202-661-2400</Phone>
+            <Address NearestAirport="Ronald Reagan Washington National">
+                <Number>515</Number>
+                <Street>15th St NW.</Street>
+                <City>Washington</City>
+                <State>DC</State>
+                <Zip>20004</Zip>
+            </Address>
+        </Hotel>
+
+
+
+
+</Hotel>
